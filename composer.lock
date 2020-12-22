@@ -1,0 +1,50 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "509aa4fd9dd95d7043241414db18edbb",
+    "packages": [
+        {
+            "name": "djabber/bracketer",
+            "version": "v0.1.10",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/drJabber/otusphp_l02_p1.git",
+                "reference": "0db784f2d7c2d58daed4c18acaae95b1df2ff2bd"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/drJabber/otusphp_l02_p1/zipball/0db784f2d7c2d58daed4c18acaae95b1df2ff2bd",
+                "reference": "0db784f2d7c2d58daed4c18acaae95b1df2ff2bd",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "djabber\\": "./"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0-or-later"
+            ],
+            "description": "bracket counter",
+            "support": {
+                "issues": "https://github.com/drJabber/otusphp_l02_p1/issues",
+                "source": "https://github.com/drJabber/otusphp_l02_p1/tree/v0.1.10"
+            },
+            "time": "2020-12-22T19:15:37+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}
